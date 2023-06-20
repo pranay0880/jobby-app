@@ -1,0 +1,29 @@
+.searchInput {
+  width: 300px;
+  padding: 10px;
+  background-color: transparent;
+  color: white;
+  border: 1px solid white;
+}
+.searchContainer {
+  display: flex;
+  align-items: center;
+  margin-left: 50px;
+}
+.search-icon {
+  background-color: #272727;
+  font-size: 30px;
+  padding: 5px;
+  height: 37px;
+  border: 1px solid white;
+  color: white;
+}
+.searchButton {
+  background-color: transparent;
+  border: 0px solid;
+  cursor: pointer;
+  outline: none;
+}
+.noJobsContainer {
+  color: white;
+}

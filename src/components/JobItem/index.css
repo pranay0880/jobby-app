@@ -1,0 +1,43 @@
+.listContainer {
+  background-color: #272727;
+  list-style-type: none;
+  color: white;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 20px;
+}
+.logoHeading {
+  display: flex;
+  align-items: center;
+}
+.companyImage {
+  height: 50px;
+  margin: 10px;
+}
+.star {
+  color: #fbbf24;
+  font-size: 15px;
+  margin: 5px;
+}
+.starContainer {
+  display: flex;
+  align-items: center;
+}
+.title {
+  font-size: 20px;
+}
+.locationSalary {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #475569;
+  padding: 10px;
+}
+.locationContainer {
+  display: flex;
+  align-items: center;
+  margin-right: 20px;
+}
+.locationIcon {
+  margin-right: 6px;
+}

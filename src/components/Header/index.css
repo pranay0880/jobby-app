@@ -1,0 +1,30 @@
+.navContainer {
+  height: 10vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #272727;
+  padding: 40px;
+}
+.homeJobs {
+  display: flex;
+  align-items: center;
+  font-family: Roboto;
+}
+.heading1 {
+  padding: 5px;
+}
+.logout {
+  background-color: #4f46e5;
+  color: white;
+  font-weight: bold;
+  border: 0px solid;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  outline: none;
+}
+.link {
+  text-decoration: none;
+  color: white;
+}

@@ -1,0 +1,31 @@
+.Width30 {
+  width: 30vw;
+  height: 100vh;
+}
+.profile {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  background-size: cover;
+  height: 180px;
+  width: 250px;
+  border-radius: 15px;
+  color: black;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+.bioImage {
+  height: 40px;
+}
+.profileName {
+  font-size: 25px;
+  color: #6366f1;
+}
+.heading2 {
+  color: white;
+}
+.employContainer {
+  border-top: 2px solid #475569;
+}
+.salaryUnOrder {
+  padding: 0px;
+  list-style-type: none;
+}

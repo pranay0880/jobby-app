@@ -1,0 +1,55 @@
+.blackContainer {
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.loginContainer {
+  background-color: #272727;
+  width: 400px;
+  height: 400px;
+  padding: 20px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  padding: 30px;
+}
+.websiteLogo {
+  height: 40px;
+  align-self: center;
+  margin-bottom: 10px;
+}
+.usernameContainer {
+  margin-top: 20px;
+}
+.userInput {
+  background-color: transparent;
+  border: 1px solid #64748b;
+  width: 300px;
+  padding: 5px;
+  margin: 10px;
+  color: white;
+}
+.label {
+  font-weight: bold;
+  margin-left: 10px;
+}
+.loginButton {
+  border: 0px solid;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  outline: none;
+  width: 300px;
+  background-color: #4f46e5;
+  border-radius: 10px;
+  padding: 10px;
+  margin-left: 10px;
+  margin-top: 20px;
+}
+
+.errorPara {
+  color: red;
+}

@@ -1,0 +1,11 @@
+.heading2 {
+  font-size: 20px;
+}
+.checkboxContainer {
+  display: flex;
+  align-items: center;
+  padding: 5px;
+}
+.checkboxLabel {
+  color: white;
+}
